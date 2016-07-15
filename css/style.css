@@ -430,6 +430,7 @@ position:absolute;
 bottom:0;
 padding-top: 10px;
 background-color:#213a4d;
+border-top: 1px solid #242c3e;
 }
 footer nav {
   color:white;
